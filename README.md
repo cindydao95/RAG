@@ -4,9 +4,10 @@
     Build a RAG application that provides ideas for immigrations who aim to live in the U.S.  
 
 ## Method:
-
+Use LLM
 ## Implement:
 ### Prerequisite:
     Python==3.9.18
     pip install -r requirements.txt
-    
+
+
